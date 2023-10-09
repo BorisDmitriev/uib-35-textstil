@@ -1,0 +1,55 @@
+/* css reset */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #292929;
+}
+
+blockquote {
+    margin: 0 0 0 30px;
+}
+
+h1, h3{
+   font-family: Verdana, Geneva, Tahoma, sans-serif; 
+   font-weight: 700;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+    text-align: center;
+    letter-spacing: 6px;
+    word-spacing: 32px;
+}
+
+blockquote {
+    font-style: italic;
+    line-height: 40px;
+}
+
+span {
+    text-decoration: line-through;
+}
+
+em {
+    text-transform: capitalize;
+}
+
+strong{
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+a {
+    color: olivedrab;
+    text-decoration: none;
+}
+
